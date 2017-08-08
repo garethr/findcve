@@ -11,6 +11,7 @@ setup(
         'version_utils',
         'requests',
         'clint',
+        'colorama',
     ],
     entry_points='''
         [console_scripts]
