@@ -1,0 +1,15 @@
+Include
+Lib
+Scripts
+*.egg-info
+tcl
+*~
+pip-selfcheck.json
+__pycache__
+.cache
+.coverage
+.eggs
+.tox
+*.pyc
+*.swp
+debian.json
